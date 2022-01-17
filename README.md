@@ -10,7 +10,7 @@
   Tivemos grande dificuldade para gerar o 'make-file', mas conseguimos gerar um arquivo '.exe' que acreditamos que possa compensá-lo.
 
 ## Como executar
-  Na pasta onde o executável (./bin/Debug/) está armazenado execute o seguinte comando:
+  Na pasta onde o executável está armazenado (./bin/Debug/) execute o seguinte comando:
 
 ```         
 .\main [diretório do arquivo .csv]
